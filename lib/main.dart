@@ -12,6 +12,7 @@ class Techner extends StatelessWidget {
     return MaterialApp(
       home:Scaffold(
 
+
         backgroundColor:Colors.blue,
         appBar: AppBar(title: const Text("Techner",
           style: TextStyle(fontSize: 60,fontWeight:FontWeight.bold, color: Colors.red),
